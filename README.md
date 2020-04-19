@@ -3,6 +3,8 @@
 This is a fun example of Node.js script which sends cross-platform OS alert if
 disk is running out of (given) space.
 
+![alt text](./assets/preview.png)
+
 ### Usage
 
 After installing all dependencies, hit:
